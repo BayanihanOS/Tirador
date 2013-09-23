@@ -1,5 +1,4 @@
 #!/bin/bash
 
 glib-compile-schemas schemas/
-mkdir -p ~/.local/share/gnome-shell/extensions/slingshot@rastersoft.com
-cp -a * ~/.local/share/gnome-shell/extensions/slingshot@rastersoft.com/
+cp tirador@bayanihan.com ~/.local/share/gnome-shell/extensions/tirador@bayanihan.com
